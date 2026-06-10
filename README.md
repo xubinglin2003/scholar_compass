@@ -1,1 +1,1 @@
-# Neo4j-database
+# Scholar Compass: Academic Knowledge Graph Platform 
